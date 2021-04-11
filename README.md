@@ -1,2 +1,4 @@
-# yondan.iot.github.io
-yondan.iot@gmail.com
+# gilpgiot.github.io
+Ejemplo de IoT con Firestore.
+
+https://gilpgiot.github.io
